@@ -1,0 +1,10 @@
+package com.mimaraslan;
+
+import java.util.*;
+
+public class Ogrenci {
+
+	List<?> ogrenciList;
+	Set<?> ogrenciSet;
+	May<?> ogrenciMap;
+}

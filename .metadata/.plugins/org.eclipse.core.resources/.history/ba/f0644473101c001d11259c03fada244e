@@ -1,0 +1,11 @@
+package com.mimaraslan;
+
+import java.util.*;
+
+public class Ogrenci {
+
+	List<?> ogrenciList;
+	Set<?> ogrenciSet;
+	Map<?, ?> ogrenciMap;
+	Properties ogrenciProp;
+}

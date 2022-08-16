@@ -1,0 +1,9 @@
+package com.mimaraslan;
+
+import java.util.*;
+
+public class Ogrenci {
+
+	String adi, soyadi, bolumu;
+	int yasi;
+}

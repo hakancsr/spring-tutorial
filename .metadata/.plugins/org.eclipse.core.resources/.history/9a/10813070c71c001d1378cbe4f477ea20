@@ -1,0 +1,8 @@
+package com.mimaraslan;
+
+import java.util.List;
+
+public class Personel {
+
+	private List<?> listemiz;
+}

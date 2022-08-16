@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;021_PNameSpace&apos; to &apos;021_P_NameSpace&apos;&#x0D;&#x0A;- Original element: &apos;021_PNameSpace&apos;&#x0D;&#x0A;- Renamed element: &apos;021_PNameSpace&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;021_PNameSpace&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=021_PNameSpace" name="021_P_NameSpace" references="true" stamp="1660488960290" version="1.0"/>
+</session>

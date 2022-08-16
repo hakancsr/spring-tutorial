@@ -1,0 +1,27 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/018_ConstructorDependencyInjection/src/main/java/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/019_ParametreliConstructorDependencyInjection/src/main/java/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage id\="com.springsource.sts.config.ui.editors.beans" index\="3" kind\="formPage" uri\="http\://www.springframework.org/schema/beans"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/020_SetterDependencyInjection/src/main/java/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/021_PNameSpace/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/021_P_NameSpace/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/022_C_NameSpace/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/023_InnerBean/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/024_InjectingCollection/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/025_KoleksiyonTiplerineReferansEnjekteEtmek/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/026_Null_Empty_DegerlerininBeanlerdeKullanimi/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/027_BirdenFazlaSpringYap\u0131landirmaDosyasiylaCalismak/src/main/java/SpringBeans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/027_BirdenFazlaSpringYap\u0131landirmaDosyasiylaCalismak/src/main/resources/SpringBeansTumModuller.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/027_BirdenFazlaSpringYap\u0131landirmaDosyasiylaCalismak/src/main/resources/alis/Spring-AlisModulu.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/027_BirdenFazlaSpringYap\u0131landirmaDosyasiylaCalismak/src/main/resources/musteri/Spring-AdresModulu.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/027_BirdenFazlaSpringYap\u0131landirmaDosyasiylaCalismak/src/main/resources/musteri/Spring-MusteriModulu.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/027_BirdenFazlaSpringYap\u0131landirmaDosyasiylaCalismak/src/main/resources/yonetim/haklar/Spring-HaklarModulu.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/028_Util_List/src/main/java/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="5"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/029_Util_Set/src/main/java/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/030_Util_Map/src/main/java/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/031_Util_Properties/src/main/java/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/031_Util_Properties/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="5"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/032_AutoWirinBeans-No/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/033_AutoWiringBeans-ByName/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/034_AutoWiringBeans-ByType/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/035_AutoWiringBeans-Constructor/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/036_AutoWiringBeans-Default/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

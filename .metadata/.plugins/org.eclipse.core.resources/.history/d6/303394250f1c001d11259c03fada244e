@@ -1,0 +1,10 @@
+package com.mimaraslan;
+
+public class Musteri {
+
+	private Siparis siparis;
+
+	public Musteri() {
+		System.out.println("Müşteri sınıfının yapılandırıcısı.");
+	}
+}

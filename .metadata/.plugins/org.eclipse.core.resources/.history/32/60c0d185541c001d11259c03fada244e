@@ -1,0 +1,8 @@
+package com.mimaraslan.musteri;
+
+public class Adres {
+
+	public Adres() {
+		System.out.println("Adres sınıfı");
+	}
+}

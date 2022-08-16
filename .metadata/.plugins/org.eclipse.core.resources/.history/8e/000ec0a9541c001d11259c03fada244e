@@ -1,0 +1,11 @@
+package com.mimaraslan.musteri;
+
+public class Musteri {
+
+	public Musteri() {
+		System.out.println("Müşteri sınıfı");
+
+		String adi, soyadi, telNo;
+		Adres adres;
+	}
+}

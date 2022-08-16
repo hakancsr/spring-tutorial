@@ -1,0 +1,11 @@
+package com.mimaraslan;
+
+import java.util.*;
+
+public class Koleksiyonlar {
+
+	private List<Object> listeler;
+	private Set<Object> setler;
+	private Map<Object,Object> mapler;
+	private Properties propertiesler;
+}
