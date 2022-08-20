@@ -2,3 +2,8 @@
 1660995577646	Delete resource '037_Required'
 1660995580685	Delete resource '037_@Required'
 1660996141741	Rename Java project '037_Required'
+1660998183116	Rename Java project '038_Autowired'
+1661000748617	Rename Java project '040_PostConstruct-PreDestroy'
+1661001801362	Rename Java project '041_Resources'
+1661004024053	Rename Java project '042_Configuration-Bean'
+1661004680996	Rename Java project '043_Component-ComponentScan'

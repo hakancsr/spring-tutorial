@@ -6,6 +6,8 @@
 <aop-project name="028_Util_List"/>
 <aop-project name="021_P_NameSpace"/>
 <aop-project name="036_AutoWiringBeans-Default"/>
+<aop-project name="038_@Autowired"/>
+<aop-project name="037_@Required"/>
 <aop-project name="023_InnerBean"/>
 <aop-project name="030_Util_Map"/>
 <aop-project name="033_AutoWiringBeans-ByName"/>
