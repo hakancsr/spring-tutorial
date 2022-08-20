@@ -14,6 +14,7 @@ public class Merkez {
 
 		Calisan calisan = context.getBean(Calisan.class);
 		System.out.println(calisan);
+		System.out.println("Hakan");
 
 		((ConfigurableApplicationContext) context).close();
 	}
