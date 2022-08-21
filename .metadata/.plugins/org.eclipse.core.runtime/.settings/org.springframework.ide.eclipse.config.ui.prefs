@@ -25,4 +25,13 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/035_AutoWiringBeans-Constructor/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/036_AutoWiringBeans-Default/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/037_@Required/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/038_@Autowired/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/039_@Qualifier/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="5"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/040_@PostConstruct-@PreDestroy/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/041_@Resources/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/043_@Component-@ComponentScan/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/044_XML_YapilandirmaDosyas\u0131nda_SpringEL/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/045_Annotationlarla_SpringEL/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/046_XML_Dosyasinda_SpringEL_IleMetotCagirma/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/047_Annotationlarla_SpringELdeMEtotCagirma/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1
