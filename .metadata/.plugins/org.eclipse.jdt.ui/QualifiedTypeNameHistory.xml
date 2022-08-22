@@ -5,10 +5,8 @@
     <fullyQualifiedTypeName name="com.mimaraslan.Koleksiyonlar"/>
     <fullyQualifiedTypeName name="com.mimaraslan.musteri.Adres"/>
     <fullyQualifiedTypeName name="com.mimaraslan.musteri.Musteri"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.mimaraslan.Personel"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Required"/>
     <fullyQualifiedTypeName name="com.mimaraslan.Ders"/>
     <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
@@ -27,9 +25,25 @@
     <fullyQualifiedTypeName name="com.mimaraslan.Yazar"/>
     <fullyQualifiedTypeName name="com.mimaraslan.Kitap"/>
     <fullyQualifiedTypeName name="java.lang.Appendable"/>
+    <fullyQualifiedTypeName name="com.mimaraslan.Operatorler"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.mimaraslan.TernaryOperator"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.mimaraslan.Listeler"/>
+    <fullyQualifiedTypeName name="com.mimaraslan.RegExKontrol"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.expression.spel.standard.SpelExpressionParser"/>
+    <fullyQualifiedTypeName name="org.springframework.expression.ExpressionParser"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.mimaraslan.model.Kaynak"/>
+    <fullyQualifiedTypeName name="org.springframework.expression.spel.support.StandardEvaluationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.expression.Expression"/>
 </qualifiedTypeNameHistroy>

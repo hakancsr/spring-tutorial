@@ -34,4 +34,12 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/045_Annotationlarla_SpringEL/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/046_XML_Dosyasinda_SpringEL_IleMetotCagirma/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/047_Annotationlarla_SpringELdeMEtotCagirma/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/048_XML_Dosyasinda_SpringEL_IleOperatorler/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/049_Annotationlarla_SprinELdeOperatorler/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/050_XML_Dosyasinda_SpringEL_IleTernaryOperator/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/051_Annotationlarla_SpringEL_IleTernaryOperator/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/052_XML_Dosyasinda_SpringEL_Ile_Lists_Maps/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/053_Annotationlarla_SpringEL_Ile_Lists_Maps/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="5"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/054_XML_Dosyasinda_SpringEL_Ile_RegularExpressions/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/055_Annotationlarla_SpringELde_RegularExpressions/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="5"/>
 eclipse.preferences.version=1

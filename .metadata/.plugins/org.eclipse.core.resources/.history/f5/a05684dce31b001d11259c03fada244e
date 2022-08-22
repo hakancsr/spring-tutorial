@@ -1,6 +1,0 @@
-package com.mimaraslan;
-
-public class Adres {
-
-	String sehir, semt, mahalle, cadde, no, daire;
-}
