@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="sozlerBean" class="com.mimaraslan.Sozler">
+		<property name="cumle"
+			value="Güzel düşünen, güzel görür. Güzel gören, hayatından lezzet alır." />
+	</bean>
+
+	<bean id="baslatmaBean"
+		class="com.mimaraslan.ContextOlayBaslatmaIsleyicisi" />
+	<bean id="durdurmaBean"
+		class="com.mimaraslan.ContextOlayDurdurmaIsleyicisi"></bean>
+
+	<bean id="customOlayIsleyicisiBean" class="com.mimaraslan.CustomOlayIsleyicisi"/>
+	<bean id="customOlayYayinlayicisiBean" class="com.mimaraslan.CustomOlayYayinlayicisi"/>
+
+</beans>
