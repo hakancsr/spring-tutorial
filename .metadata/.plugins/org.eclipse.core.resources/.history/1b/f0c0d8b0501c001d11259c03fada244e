@@ -1,9 +1,0 @@
-package com.mimaraslan;
-
-public class Personel {
-
-	String adi, soyadi, gorevi, telNo, adres;
-	String anneAdi, babaAdi;
-	int dogumYili, maasi;
-	boolean ehliyet, medeniHali;
-}

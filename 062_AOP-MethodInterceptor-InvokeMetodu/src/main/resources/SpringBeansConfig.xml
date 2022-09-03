@@ -5,7 +5,7 @@
 
 	<bean id="personelServisBean"
 		class="com.mimaraslan.PersonelServis">
-		<property name="adi" value="a" />
+		<property name="adi" value="Ümit" />
 		<property name="soyadi" value="Gedik" />
 		<property name="tecrube" value="4" />
 	</bean>
