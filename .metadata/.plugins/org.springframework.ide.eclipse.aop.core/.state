@@ -10,8 +10,8 @@
 <aop-project name="023_InnerBean"/>
 <aop-project name="030_Util_Map"/>
 <aop-project name="033_AutoWiringBeans-ByName"/>
-<aop-project name="032_AutoWiringBeans-No"/>
 <aop-project name="025_KoleksiyonTiplerineReferansEnjekteEtmek"/>
+<aop-project name="032_AutoWiringBeans-No"/>
 <aop-project name="046_XML_Dosyasinda_SpringEL_IleMetotCagirma"/>
 <aop-project name="029_Util_Set"/>
 <aop-project name="041_@Resources"/>
@@ -29,14 +29,20 @@
 <aop-project name="052_XML_Dosyasinda_SpringEL_Ile_Lists_Maps"/>
 <aop-project name="037_@Required"/>
 <aop-project name="048_XML_Dosyasinda_SpringEL_IleOperatorler"/>
+<aop-project name="059_AOP-MethodBeforeAdvice-BeforeMetodu"/>
 <aop-project name="027_BirdenFazlaSpringYapýlandirmaDosyasiylaCalismak"/>
+<aop-project name="060_AOP-AfterReturninAdvice-AfterReturningMetodu"/>
+<aop-project name="061_AOP-ThrowsAdvice-AfterThrowingMetodu"/>
 <aop-project name="019_ParametreliConstructorDependencyInjection"/>
+<aop-project name="058_CustomEvents_OzellestirilmisOlaylar"/>
 <aop-project name="043_@Component-@ComponentScan"/>
 <aop-project name="018_ConstructorDependencyInjection"/>
+<aop-project name="062_AOP-MethodInterceptor-InvokeMetodu"/>
 <aop-project name="034_AutoWiringBeans-ByType"/>
 <aop-project name="047_Annotationlarla_SpringELdeMEtotCagirma"/>
 <aop-project name="045_Annotationlarla_SpringEL"/>
 <aop-project name="050_XML_Dosyasinda_SpringEL_IleTernaryOperator"/>
 <aop-project name="055_Annotationlarla_SpringELde_RegularExpressions"/>
+<aop-project name="057_EventHandling_OlayIsleme"/>
 <aop-project name="035_AutoWiringBeans-Constructor"/>
 </aop-reference-model>

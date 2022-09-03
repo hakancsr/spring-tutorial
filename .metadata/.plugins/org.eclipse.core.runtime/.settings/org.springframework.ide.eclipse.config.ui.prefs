@@ -42,4 +42,10 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/053_Annotationlarla_SpringEL_Ile_Lists_Maps/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="5"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/054_XML_Dosyasinda_SpringEL_Ile_RegularExpressions/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/055_Annotationlarla_SpringELde_RegularExpressions/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="5"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/057_EventHandling_OlayIsleme/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/058_CustomEvents_OzellestirilmisOlaylar/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/059_AOP-MethodBeforeAdvice-BeforeMetodu/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/060_AOP-AfterReturninAdvice-AfterReturningMetodu/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/061_AOP-ThrowsAdvice-AfterThrowingMetodu/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/062_AOP-MethodInterceptor-InvokeMetodu/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1
