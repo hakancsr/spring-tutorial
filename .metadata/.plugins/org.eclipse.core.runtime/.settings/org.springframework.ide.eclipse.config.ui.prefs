@@ -48,4 +48,8 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/060_AOP-AfterReturninAdvice-AfterReturningMetodu/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="4"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/061_AOP-ThrowsAdvice-AfterThrowingMetodu/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/062_AOP-MethodInterceptor-InvokeMetodu/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/063_AOP-NameMatchMethodPointcutAdvisor/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/065_AOP-ProxyFactoryBean-InterceptorNames/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/066_AOP-BeanNameAutoProxyCreator-BeanNames/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/067_AOP-DefaultAdvisorAutoProxyCreator/src/main/resources/SpringBeansConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1
